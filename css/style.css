@@ -632,7 +632,7 @@ img{
 
 .sec-title h1{
   display: block;
-  font-size: 30px;
+  font-size: 85px;
   text-transform: uppercase;
   color: #111; 
   margin-bottom: 75px; 
@@ -640,7 +640,7 @@ img{
 
 @media screen and (max-width:800px){
   .sec-title h1{
-    font-size: 76px;
+    font-size: 50px;
   }
 }
 
